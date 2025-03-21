@@ -13,5 +13,6 @@ public class Hello {
 //        System.out.println("2+3="+2+3);
 //        System.out.println("2+3="+(2+3));
         System.out.println(amount+"-"+price+"="+(amount-price));
+        System.out.println("再见");
     }
 }
